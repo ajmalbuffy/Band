@@ -49,21 +49,21 @@ body {font-family: "Lato", sans-serif}
 
   <!-- Automatic Slideshow Images -->
   <div class="mySlides w3-display-container w3-center">
-    <img src="D:/Website/images/56.jpg" height= "500" style="width:90%">
+    <img src="http://res.cloudinary.com/buffycloud/image/upload/v1485764381/56_mrjzha.jpg" height= "500" style="width:90%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Los Angeles</h3>
       <p><b>We had the best time playing at Venice Beach!</b></p>   
     </div>
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="D:/Website/images/8.png" height= "500" style="width:90%">
+    <img src="http://res.cloudinary.com/buffycloud/image/upload/v1485764361/8_gqnqsd.png" height= "500" style="width:90%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>New York</h3>
       <p><b>The atmosphere in New York is lorem ipsum.</b></p>    
     </div>
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="D:/Website/images/14.jpg" height= "500" style="width:90%">
+    <img src="http://res.cloudinary.com/buffycloud/image/upload/v1485764358/14_ig2rtl.jpg" height= "500" style="width:90%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Chicago</h3>
       <p><b>Thank you, Chicago - A night we won't forget.</b></p>    
@@ -80,15 +80,15 @@ body {font-family: "Lato", sans-serif}
     <div class="w3-row w3-padding-32">
       <div class="w3-third">
         <p>WEB</p>
-        <img src="D:/Website/images/43.png" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%">
+        <img src="http://res.cloudinary.com/buffycloud/image/upload/v1485764373/43_cll4hw.png" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%">
       </div>
       <div class="w3-third">
         <p>Name</p>
-        <img src="D:/Website/images/50.jpg" class="w3-round w3-margin-bottom" alt="Random Name" height="160" style="width:60%">
+        <img src="http://res.cloudinary.com/buffycloud/image/upload/v1485764376/50_h6mbsb.jpg" class="w3-round w3-margin-bottom" alt="Random Name" height="160" style="width:60%">
       </div>
       <div class="w3-third">
         <p>Name</p>
-        <img src="D:/Website/images/33.png" class="w3-round" alt="Random Name" height="160" style="width:60%">
+        <img src="http://res.cloudinary.com/buffycloud/image/upload/v1485764374/33_gfbzjn.png" alt="Random Name" height="160" style="width:60%">
       </div>
     </div>
   </div>
